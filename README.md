@@ -15,7 +15,17 @@ A BepInEx mod for Lethal Company that displays randomized death, monster encount
 - **Enemy Blacklist** — Filter out enemies you don't want messages for
 - **Debug Test Mode** — Press F8-F11 to cycle through message types without needing to die or encounter monsters
 
-All messages are **host/server only** and use the game's native notification system (no custom UI).
+All messages are **client-side** — each player needs the mod installed to see the notifications. Uses the game's native notification system (no custom UI).
+
+## Screenshots
+
+| Death (Gravity) | Event (Jester) |
+|:---:|:---:|
+| ![Death - Gravity](screenshots/death-gravity.png) | ![Event - Jester](screenshots/event-jester.png) |
+
+| Event (Ship Leaving) | Death (Snare Flea) |
+|:---:|:---:|
+| ![Event - Ship Leaving](screenshots/event-ship-leaving.png) | ![Death - Snare Flea](screenshots/death-snare-flea.png) |
 
 ## Configuration
 
