@@ -2,11 +2,11 @@
 # Run from the repo root: .\thunderstore\package.ps1
 #
 # Requires: icon.png (256x256) in thunderstore/
-# Produces: thunderstore/LuckOfTheLefty-LethalHUDMessages-1.0.0.zip
+# Produces: thunderstore/LuckOfTheLefty-LethalHUDMessages-1.0.2.zip
 
 $ErrorActionPreference = "Stop"
 
-$version = "1.0.0"
+$version = "1.0.2"
 $outDir = "$PSScriptRoot\build"
 $zipName = "LuckOfTheLefty-LethalHUDMessages-$version.zip"
 

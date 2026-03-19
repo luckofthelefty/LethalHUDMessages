@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.2
+
+- Added StaticNetcodeLib as a dependency for standalone compatibility
+
+## 1.0.1
+
+- Added screenshots to README
+- Fixed client-side note in README
+
 ## 1.0.0
 
 - Initial release

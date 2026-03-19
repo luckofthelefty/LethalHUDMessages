@@ -1,9 +1,10 @@
 {
     "name": "LethalHUDMessages",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/luckofthelefty/LethalHUDMessages",
     "description": "HUD overlay notifications for deaths, monster encounters, and game events. No chat spam.",
     "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
+        "BepInEx-BepInExPack-5.4.2100",
+        "xilophor-StaticNetcodeLib-1.2.0"
     ]
 }
